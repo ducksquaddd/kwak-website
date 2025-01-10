@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gray-900 flex items-center justify-center px-4">
+  <div class="flex items-center justify-center mt-10">
     <div class="max-w-3xl mx-auto text-center">
       <h1 class="text-7xl font-bold mb-8 text-white">
         Elys <span class="text-yellow-400">Scan</span>
